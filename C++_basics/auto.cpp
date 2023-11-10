@@ -8,5 +8,5 @@ int main(){
 
     cout<<typeid(a).name() << endl;
     cout<<typeid(b).name();
-
+    return 0;
 }
