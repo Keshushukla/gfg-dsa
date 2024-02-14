@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    static int x;
+    static int x ;
     cout<<x<<endl;
     return 0;
 }
